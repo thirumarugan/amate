@@ -1,1 +1,1 @@
-# amate
+Amate wesite
